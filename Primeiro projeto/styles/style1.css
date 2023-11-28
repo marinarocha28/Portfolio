@@ -153,7 +153,7 @@ margin-left: 1em;
 }
 
 .lista__link a:active{
-    color: pink;
+    color: red;
 }
 
 .container__botao:hover{
